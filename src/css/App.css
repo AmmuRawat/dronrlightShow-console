@@ -1,0 +1,36 @@
+.flexContainer{
+    
+    display: flex;
+    height:250px;
+    width:80%;
+
+}
+
+.vData{
+    color: chartreuse;
+    width:30%;
+    height: 200px;
+    border:2px solid black;
+    margin-left:20%;
+    margin-top: 5%;
+    overflow-y: auto;
+}
+
+.pData{
+    color:brown;
+    width:30%;
+    height: 200px;
+    border:2px solid black;
+    overflow-y: auto;
+    margin-left:20%;
+    margin-top: 5%;
+    top: 50%;
+
+}
+
+
+.headingStyle{
+  text-align: center;
+  margin-top: 5%;
+}
+
